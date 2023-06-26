@@ -5,3 +5,7 @@
 [submodule "MC920"]
 	path = MC920
 	url = git@github.com:CaioFernandoDev/MC920.git
+
+[submodule "MC613"]
+	path = MC613
+	url = git@github.com:CaioFernandoDev/MC613.git
