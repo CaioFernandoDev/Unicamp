@@ -1,11 +1,9 @@
 [submodule "MC458"]
 	path = MC458
 	url = git@github.com:CaioFernandoDev/MC458.git
-
 [submodule "MC920"]
 	path = MC920
 	url = git@github.com:CaioFernandoDev/MC920.git
-
 [submodule "MC613"]
 	path = MC613
 	url = git@github.com:CaioFernandoDev/MC613.git
